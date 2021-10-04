@@ -1,0 +1,25 @@
+h1 {
+    font-size: 65px; color: coral; font-family: sans-serif;
+}
+ul {
+    background-color: green;
+}
+
+.estilo {
+        background-color: rgb(230, 178, 178);
+}
+p {
+ font-weight: 600; font-size: 3em;
+}
+body {
+  font-size: 16px;
+}
+ #um {
+   color: gold;
+ }
+ #dois {
+   color: red;
+ }
+ #tres {
+   color: brown;
+ }
